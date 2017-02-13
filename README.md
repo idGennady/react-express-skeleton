@@ -1,3 +1,3 @@
-1) npm install \n
-2) webpack \n
+1) npm install <br />
+2) webpack <br />
 3) nodemon server.js
